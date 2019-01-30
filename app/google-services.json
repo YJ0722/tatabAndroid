@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "20237103147",
+    "firebase_url": "https://tatabtest.firebaseio.com",
+    "project_id": "tatabtest",
+    "storage_bucket": "tatabtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20237103147:android:7a1cee06fc341676",
+        "android_client_info": {
+          "package_name": "com.example.lg.tatab01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20237103147-63lpnjjc9ktuci07fupo3m00h4kr7672.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lg.tatab01",
+            "certificate_hash": "e71975490e202a20b81412cfd00f59734467968f"
+          }
+        },
+        {
+          "client_id": "20237103147-mjim8hg668hgkofa7s4j1473opd3gubk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lg.tatab01",
+            "certificate_hash": "8b6ed6fee7325099da35c8621fa7db1c56741986"
+          }
+        },
+        {
+          "client_id": "20237103147-g58klt7gq800k84l2s8t1k1qvh28b2da.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ7QtUoSuHUPGaCPPyNXMkv19ik4a8dMs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20237103147-g58klt7gq800k84l2s8t1k1qvh28b2da.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

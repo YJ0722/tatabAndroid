@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/projectList"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:text="Project List"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:paddingLeft="15dp"
+            android:background="#f95d03"
+            android:textColor="#ffffff"/>
+
+        <ListView
+            android:id="@+id/projectListView"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="10"
+            android:divider="#00000000 "
+            android:dividerHeight="5dp">
+
+        </ListView>
+    </LinearLayout>
+
+</android.support.v7.widget.LinearLayoutCompat>
